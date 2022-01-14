@@ -1,7 +1,0 @@
-msiexec /i "<complete path>" /quiet <install options>
-
-
-C:\Users\Client01\Downloads\Zscaler-windows-3.4.0.124-installer.msi
-
-
-msiexec /i "C:\Users\Client01\Downloads\Zscaler-windows-3.4.0.124-installer.msi" CLOUDNAME=zscalertwo USERDOMAIN=hvuyyuru.zscalertwo.net
